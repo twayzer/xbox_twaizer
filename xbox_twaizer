@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>XBOX GamePass</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f2f2f2;
+            margin: 0;
+            padding: 30px 15px;
+            color: #222;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            background: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 2px 12px rgba(0,0,0,.12);
+        }
+        h1 { text-align: center; }
+        .info {
+            background: #f7f7f7;
+            padding: 15px;
+            border-radius: 7px;
+            margin: 15px 0;
+        }
+        p { line-height: 1.6; }
+        .warning {
+            background: #fff3cd;
+            padding: 15px;
+            border-radius: 7px;
+            font-weight: bold;
+        }
+        a {
+            display: inline-block;
+            margin: 8px 0;
+            color: #1565c0;
+        }
+        .review {
+            text-align: center;
+            font-size: 20px;
+            margin-top: 25px;
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+    <h1>XBOX GamePass</h1>
+
+    <div class="info">
+        <p><strong>Продавец:</strong> twaizer — PlayerOK</p>
+        <p><strong>Дата изменения данных:</strong> 28.08.2026</p>
+    </div>
+
+    <h2>Данные от аккаунта</h2>
+    <div class="info">
+        <p><strong>Microsoft:</strong> Dreber898gkcg@outlook.com : DuunoPassword_28_08_26
+</p>
+        <p><strong>EA Play:</strong> Dreber898gkcg@outlook.com : DuunoPassword_28_08_26Ы</p>
+    </div>
+
+    <p><strong>ВХОД ЧЕРЕЗ XBOX, не пытайтесь войти напрямую через ввод данных.</strong></p>
+
+    <div class="warning">
+        ЕСЛИ ПОЯВЛЯЕТСЯ ОШИБКА ПРИ ВХОДЕ, ВВОДИТЕ ДАННЫЕ СНОВА И СНОВА ПОКА НЕ УДАСТСЯ ВОЙТИ, ДРУГОГО ВАРИАНТА НЕТ!
+    </div>
+
+    <p><strong>ЕСЛИ ПОЯВЛЯЕТСЯ ОКНО О СМЕНЕ ДАННЫХ, НАЖИМАЙТЕ «ДАЛЕЕ».</strong></p>
+
+    <p>
+        <a href="https://docs.google.com/presentation/d/1NBpoMteFPoOAgWEVjTny06HYF_8ETPyA3zDI0gTRjsY/edit#slide=id.gd088308a25_0_0" target="_blank">
+            Инструкция (клик)
+        </a><br>
+        <a href="https://docs.google.com/document/d/1rFx14igEX01GAQ4i-x3qnG316fkNqSAq7M94QADRd4g/edit" target="_blank">
+            Сборник различных ошибок (клик)
+        </a>
+    </p>
+
+    <div class="review">
+        🙏🏻 Оставьте, пожалуйста, положительный отзыв ★★★★★
+    </div>
+</div>
+</body>
+</html>
